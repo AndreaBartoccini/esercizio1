@@ -1,2 +1,1 @@
-master modifica
-conflictBranch modifica
+GitHubBranch modifica
